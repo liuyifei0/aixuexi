@@ -1,0 +1,232 @@
+/*教师页面1 一对一辅导  带日期*/
+.teacher1{background-color: #fff;}
+.teacher1 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher1 .backico{float: left;padding-top: 1.5rem;}
+.teacher1 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher1 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher1 .text-content{padding:0 2rem;/*border: 1px solid red;*/}
+.teacher1 .input-first{width: 100%;border: .1rem solid #78abed;height: 2.5rem;border-radius:.6rem;padding-left: .7rem;font-size: 1.1rem;margin-top: 1rem;}
+.teacher1 .sel-grade{width: 33%;margin-top: 1rem;/*float: left;*/display: inline-block;border: .1rem solid #78ABED;border-radius: .6rem;height: 2rem;/*margin-left: 2rem;*/}
+.teacher1 .sel-name{/*border: 1px solid red;*/display: inline-block;line-height: 2rem;padding-left: 2rem;font-size: .7rem;}
+.teacher1 .sle-down{color: #aaa;float: right;font-size: 2rem;padding-right: .5rem;color: #78ABED;}
+.teacher1 .sel-grade-btn{margin-top: 1rem;width: 31%;float: right;height: 2rem;}
+.teacher1 .sel-grade-btn-btn{display: inline-block;text-align: center;line-height: 2rem;width: 100%;height: 2rem;border-radius: .6rem ;background-color: #78ABED;color: #fff;font-size: 1rem;border: .1rem solid #78ABED;}
+.teacher1 .sel-grade-btn-btn:hover{color: #CECECE;background-color: #5d8ecd;}
+.teacher1 .text-content-box{float: left;}
+.teacher1 .text-title-h3{float: left;font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;}
+.teacher1 .moneybox{float: right;border: 1px solid #73acef;width: 6rem;line-height: 4.5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 2rem;}
+.teacher1 .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.teacher1 .text-content-bot{padding-top: 1rem;line-height: 1.7rem;}
+.teacher1 .center-box{text-align: center;padding-top: 2rem;}
+.teacher1 .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.teacher1 .center-btn-span{font-size: .5rem;}
+.teacher1 .start-ico{color: #aaa;font-size: 1.4rem;}
+.teacher1 .midd-box{border: .1rem solid #73acef;margin-top: 1rem;padding-left: 1rem;padding-right: 1rem;padding-bottom: .7rem;}
+.teacher1 .btm-grade{/*margin-top: .5rem;*/}
+.teacher1 .btm-left{width: 49%;display: inline-block;background-color: #78ABED;text-align: center;color:#fff;font-size: 1.2rem;float: left;line-height: 2.5rem;}
+.teacher1 .btm-right{width: 49%;display: inline-block;background-color: #78ABED;text-align: center;color: #fff;font-size: 1.2rem;float: right;line-height: 2.5rem;}
+.teacher1 .top-btn{height: 3rem;margin-top: 1rem;}
+.teacher1 .top-btn1{margin-top: .1rem;width: 16%;float: left;height: 2.8rem;color:#fff; background: #78ABED; outline: none;border-style: none;margin-left: .2rem;border-radius: .4rem;}
+.teacher1 .top-btn2{margin-top: .1rem;width: 58%;float: left;height: 2.5rem;margin-left: 1rem;background: #fff;outline: none;border:.1rem solid #78ABED;color: #666;font-size: 1rem;border-radius: .4rem;text-align: center;line-height: 2.5rem;}
+.teacher1 .top-btn4{margin-top: .1rem;width: 16%;float: right;height: 2.8rem;margin-right: .2rem;background: #78ABED;color: #fff;outline: none;border-style: none;border-radius: .4rem;font-size: 1rem;}
+.teacher1 .icon-clock{font-style: normal; font-size: 1rem;}
+.teacher1 .icon-size{font-size: 1.5rem!important;color: #fff;}
+.teacher1 .icon-color{color: #78ABED;}
+.teacher1 .btm-btn-box{width: 100%;height: 3rem;position: fixed;bottom: 0;text-align: center;background: #78ABED;color: #fff;line-height: 3rem;font-size: 1.5rem;outline: none;border-style: none;}
+
+
+/*教室页面2 一对一辅导2*/
+.teacher2{background-color: #fff;}
+.teacher2 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher2 .backico{float: left;padding-top: 1.5rem;}
+.teacher2 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher2 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher2 .text-content{padding:0 2rem}
+.teacher2 .text-content-box{/*border: 1px solid red;*/}
+.teacher2 .content-div{margin-top: 2rem;border-bottom: .1rem solid #aaa;padding-bottom: .7rem;}
+.teacher2 .content-div-left{float: left;font-size: 1.2rem;}
+.teacher2 .content-div-right{float: left;font-size: 1.2rem;margin-left: 8rem;}
+.teacher2 .icon-ttt{color: #aaa;font-size: 1.4rem;margin-right: 1rem;}
+.teacher2 .content-div-right-span{color: #aaa;}
+.teacher2 .text-tear{width: 100%;height: 10rem;border: 1px solid #aaa;}
+.teacher2 .text-tear-box{padding-top: 2rem;}
+.teacher2 .content-icon-box{text-align: center;}
+.teacher2 .icon-camera{color: #78ABED;}
+.teacher2 .btm-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;font-size: 1.4rem;}
+
+/*教师页面3 作业详情*/
+.teacher3{background-color: #fff;}
+.teacher3 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher3 .backico{float: left;padding-top: 1.5rem;}
+.teacher3 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher3 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher3 .text-content{padding:0 2rem}
+.teacher3 .text-center-border{border: .1rem solid #73acef;margin-top: 1rem;}
+.teacher3 .text-content-box{float: left;margin-left: 1rem;}
+.teacher3 .text-title-h3{float: left;font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;}
+.teacher3 .moneybox{float: right;border: 1px solid #73acef;width: 7rem;line-height: 5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 0rem;margin-right: 1rem;}
+.teacher3 .text-content-p{float: left;}
+.teacher3 .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.teacher3 .text-content-bot{padding-top: 1rem;line-height: 1.7rem;}
+.teacher3 .center-box{text-align: center;padding-top: 2rem;}
+.teacher3 .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.teacher3 .center-btn-span{font-size: .5rem;}
+.teacher3 .text-button{text-align: center;padding-top: 1.5rem;width: 100%;line-height: 2rem;margin-top: 6rem;}
+.teacher3 .start-ico{color: #aaa;font-size: 1.4rem;}
+.teacher3 .text-pingjia{padding-top: 2rem;}
+.teacher3 .text-tear{width: 100%;height: 14rem;border: 1px solid #aaa;}
+.teacher3 .text-tear-box{padding-top: 1.5rem;}
+.teacher3 .btm-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;margin-top: 1rem;}
+.teacher3 .btm-btn-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;}
+.teacher3 .center-box-img{width: 100%;margin-top: 1rem}
+.teacher3 .btm-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;font-size: 1.4rem;}
+
+/*教师页面4 作业详情*/
+.teacher4{background-color: #fff;}
+.teacher4 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher4 .backico{float: left;padding-top: 1.5rem;}
+.teacher4 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher4 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher4 .text-content{padding:0 2rem}
+.teacher4 .text-center-border{border: .1rem solid #73acef;margin-top: 1rem;}
+.teacher4 .text-content-box{margin-left: 1rem;}
+.teacher4 .text-title-h3{font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;text-align: center;width: 100%;}
+.teacher4 .moneybox{float: right;border: 1px solid #73acef;width: 7rem;line-height: 5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 0rem;margin-right: 1rem;}
+.teacher4 .text-content-bot{padding-top: 1rem;line-height: 1.7rem;font-size: 1rem;}
+.teacher4 .center-box{text-align: center;padding-top: 2rem;}
+.teacher4 .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.teacher4 .center-btn-span{font-size: .5rem;}
+.teacher4 .text-button{text-align: center;padding-top: 1.5rem;width: 100%;line-height: 2rem;padding-bottom: 10rem;}
+.teacher4 .text-button input{border: .1rem solid #78ABED;width: 98%;height: 2.5rem;padding-left: 1rem;}
+.teacher4 .start-ico{color: #aaa;font-size: 1.4rem;}
+.teacher4 .text-pingjia{padding-top: 2rem;}
+.teacher4 .text-tear{width: 100%;height: 14rem;border: 1px solid #aaa;}
+.teacher4 .text-tear-box{padding-top: 1.5rem;}
+.teacher4 .btm-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;margin-top: 1rem;}
+.teacher4 .btm-btn-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;}
+.teacher4 .center-box-img{width: 100%;margin-top: 1rem}
+.teacher4 .btm-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;font-size: 1.4rem;}
+.teacher4 .text-tear{width: 100%;height: 14rem;border: 1px solid #aaa;}
+.teacher4 .text-tear-box{padding-top: 2rem;}
+.teacher4 .content-icon-box{text-align: center;}
+.teacher4 .icon-camera{color: #78ABED;}
+
+
+/*教师页面5 作业详情*/
+.teacher5{background-color: #fff;}
+.teacher5 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher5 .backico{float: left;padding-top: 1.5rem;}
+.teacher5 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher5 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher5 .text-content{padding:0 2rem}
+.teacher5 .text-center-border{border: .1rem solid #73acef;margin-top: 1rem;}
+.teacher5 .text-content-box{float: left;margin-left: 1rem;}
+.teacher5 .text-title-h3{float: left;font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;}
+.teacher5 .moneybox{float: right;border: 1px solid #73acef;width: 7rem;line-height: 5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 0rem;margin-right: 1rem;}
+.teacher5 .text-content-p{float: left;}
+.teacher5 .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.teacher5 .text-content-bot{padding-top: 1rem;line-height: 1.7rem;font-size: 1rem;}
+.teacher5 .center-box{text-align: center;padding-top: 2rem;}
+.teacher5 .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.teacher5 .center-btn-span{font-size: .5rem;}
+.teacher5 .text-button{text-align: center;padding-top: 1.5rem;width: 100%;line-height: 2rem;margin-top: 6rem;}
+.teacher5 .start-ico{color: #aaa;font-size: 1.4rem;}
+.teacher5 .text-pingjia{padding-top: 2rem;}
+.teacher5 .text-tear{width: 100%;height: 14rem;border: 1px solid #aaa;}
+.teacher5 .text-tear-box{padding-top: 1.5rem;}
+.teacher5 .btm-btn{font-size:1.4rem;width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;margin-top: 1rem;}
+.teacher5 .btm-btn-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;}
+.teacher5 .center-box-img{width: 100%;margin-top: 1rem}
+.teacher5 .btm-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;}
+
+
+/*教师页面6 作业详情*/
+.teacher6{background-color: #fff; position: relative;}
+.teacher6 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher6 .backico{float: left;padding-top: 1.5rem;}
+.teacher6 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher6 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher6 .text-content{padding:0 2rem}
+.teacher6 .text-center-border{border: .1rem solid #73acef;margin-top: 1rem;}
+.teacher6 .text-content-box{float: left;margin-left: 1rem;}
+.teacher6 .text-title-h3{float: left;font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;}
+.teacher6 .moneybox{float: right;border: 1px solid #73acef;width: 7rem;line-height: 5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 0rem;margin-right: 1rem;}
+.teacher6 .text-content-p{float: left;}
+.teacher6 .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.teacher6 .text-content-bot{font-size: 1rem;padding-top: 1rem;line-height: 1.7rem;}
+.teacher6 .center-box{text-align: center;padding-top: 2rem;}
+.teacher6 .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.teacher6 .center-btn-span{font-size: .5rem;}
+.teacher6 .text-button{text-align: center;padding-top: 1.5rem;width: 100%;line-height: 2rem;margin-top: 6rem;}
+.teacher6 .start-ico{color: #aaa;font-size: 1.4rem;}
+.teacher6 .text-pingjia{padding-top: 2rem;}
+.teacher6 .text-tear{width: 100%;height: 14rem;border: 1px solid #aaa;}
+.teacher6 .text-tear-box{padding-top: 1.5rem;}
+.teacher6 .btm-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;margin-top: 1rem;}
+.teacher6 .btm-btn-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;}
+.teacher6 .center-box-img{width: 100%;margin-top: 1rem}
+.teacher6 .btm-btn{font-size:1.4rem;width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;}
+.teacher6 .mengban-col{width: 100%;height: 110%; background:rgba(0,0,0,0.4);position: absolute;top: 0;left: 0;}
+.teacher6 .mengban-dv{width: 16rem;  position: absolute; top: 40%;left: 25%; background-color: #fff;border-radius: .4rem;}
+.teacher6 .mengban-p{font-size: 1rem;background-color: #fff; border-top-left-radius: .4rem;border-top-right-radius: .4rem; height: 4rem;line-height: 4rem;text-align: center;}
+.teacher6 .mengban-btnbox{width: 16rem; }
+.teacher6 .mengban-btnbox .btn1{font-size:1rem;width:49%;height: 2rem;background-color: #78ABED;color: #fff;border-bottom-left-radius: .4rem;  outline: none;border-style: none;}
+.teacher6 .mengban-btnbox .btn2{font-size:1rem;width:50%;height: 2rem;background-color: #78ABED;color: #fff;border-bottom-right-radius: .4rem;  outline: none;border-style: none;}
+
+
+/*教师页面7 */
+.teacher7{background-color: #fff;}
+.teacher7 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher7 .backico{float: left;padding-top: 1.5rem;}
+.teacher7 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher7 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher7 .text-content{padding:0 2rem}
+.teacher7 .text-center-border{border: .1rem solid #73acef;margin-top: 1rem;}
+.teacher7 .text-content-box{float: left;margin-left: 1rem;}
+.teacher7 .text-title-h3{float: left;font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;}
+.teacher7 .moneybox{float: right;border: 1px solid #73acef;width: 7rem;line-height: 5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 0rem;margin-right: 1rem;}
+.teacher7 .text-content-p{float: left;}
+.teacher7 .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.teacher7 .text-content-bot{font-size: 1rem;padding-top: 1rem;line-height: 1.7rem;}
+.teacher7 .center-box{text-align: center;padding-top: 2rem;}
+.teacher7 .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.teacher7 .center-btn-span{font-size: .5rem;}
+.teacher7 .text-button{/*text-align: center;*/padding-top: 1.5rem;width: 100%;border-bottom: 1px solid #aaaaaa;line-height: 2rem;}
+.teacher7 .start-ico{color: #aaa;font-size: 1.4rem;}
+.teacher7 .text-pingjia{padding-top: 2rem;}
+.teacher7 .text-tear{width: 100%;height: 14rem;border: 1px solid #aaa;}
+.teacher7 .text-tear-box{padding-top: 1.5rem;}
+.teacher7 .btm-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;margin-top: 1rem;}
+.teacher7 .btm-btn-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;}
+.teacher7 .center-box-img{width: 100%;margin-top: 1rem}
+.teacher7 .center-box-btn{color: #666; font-size: 1.2rem;}
+.teacher7 .center-box-images2{border: .1rem solid #78ABED;margin-top: 1rem;}
+
+
+/*教室页面8*/
+.teacher8{background-color: #fff;}
+.teacher8 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher8 .backico{float: left;padding-top: 1.5rem;}
+.teacher8 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher8 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher8 .text-content{padding:0 2rem;/*border: 1px solid red;*/}
+.teacher8 .input-first{width: 100%;border: .1rem solid #78abed;height: 2.5rem;border-radius:.6rem;padding-left: .7rem;font-size: 1.1rem;margin-top: 1rem;}
+.teacher8 .sel-grade{width: 33%;margin-top: 1rem;/*float: left;*/display: inline-block;border: .1rem solid #78ABED;border-radius: .6rem;height: 2rem;/*margin-left: 2rem;*/}
+.teacher8 .sel-name{/*border: 1px solid red;*/display: inline-block;line-height: 2rem;padding-left: 2rem;font-size: .7rem;}
+.teacher8 .sle-down{color: #aaa;float: right;font-size: 2rem;padding-right: .5rem;color: #78ABED;}
+.teacher8 .sel-grade-btn{margin-top: 1rem;width: 31%;float: right;height: 2rem;}
+.teacher8 .sel-grade-btn-btn{display: inline-block;text-align: center;line-height: 2rem;width: 100%;height: 2rem;border-radius: .6rem ;background-color: #78ABED;color: #fff;font-size: 1rem;border: .1rem solid #78ABED;}
+.teacher8 .sel-grade-btn-btn:hover{color: #CECECE;background-color: #5d8ecd;}
+.teacher8 .text-content-box{float: left;}
+.teacher8 .text-title-h3{float: left;font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;}
+.teacher8 .moneybox{float: right;border: 1px solid #73acef;width: 6rem;line-height: 4.5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 2rem;}
+.teacher8 .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.teacher8 .text-content-bot{padding-top: 1rem;line-height: 1.7rem;}
+.teacher8 .center-box{text-align: center;padding-top: 2rem;}
+.teacher8 .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.teacher8 .center-btn-span{font-size: .5rem;}
+.teacher8 .start-ico{color: #aaa;font-size: 1.4rem;}
+.teacher8 .midd-box{border: .1rem solid #73acef;border-bottom: none;margin-top: 1.5rem;padding-left: 1rem;padding-right: 1rem;padding-bottom: .7rem;}
+.teacher8 .btm-grade{/*margin-top: .5rem;*/}
+.teacher8 .btm-left{width: 100%;background-color: #78ABED;text-align: center;color: #fff;font-size: 1.2rem;float: left;line-height: 3rem;}
+.teacher8 .mar_top{margin-top: 1rem}
