@@ -230,3 +230,205 @@
 .teacher8 .btm-grade{/*margin-top: .5rem;*/}
 .teacher8 .btm-left{width: 100%;background-color: #78ABED;text-align: center;color: #fff;font-size: 1.2rem;float: left;line-height: 3rem;}
 .teacher8 .mar_top{margin-top: 1rem}
+
+
+/*教室页面9 个人设置*/
+.teacher9{background-color: #fff;}
+.teacher9 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher9 .backico{float: left;padding-top: 1.5rem;}
+.teacher9 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher9 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher9 .text-content{padding:0 2rem}
+.teacher9 .text-content-box{/*border: 1px solid red;*/}
+.teacher9 .content-div{border-top: .1rem solid #ddd;padding-bottom: .7rem;}
+.teacher9 .content-div-left{float: left;font-size: 1.2rem;}
+.teacher9 .content-div-right{float: left;font-size: 1.2rem;margin-left: 8rem;}
+.teacher9 .icon-ttt{color: #aaa;font-size: 1.4rem;margin-right: 1rem;}
+.teacher9 .content-div-right-span{color: #aaa;}
+.teacher9 .text-tear{width: 100%;height: 10rem;border: 1px solid #aaa;}
+.teacher9 .text-tear-box{padding-top: 2rem;}
+.teacher9 .content-icon-box{text-align: center;}
+.teacher9 .icon-camera{color: #78ABED;}
+.teacher9 .btm-btn{width: 100%;background-color: #78ABED;color: #fff;height: 3rem;border: none;position: fixed;bottom: 0;font-size: 1.4rem;}
+.teacher9 .content-img{display:inline-block;width: 4rem;height: 4rem;border-radius: 50%;background-color: #999; margin-top: 1rem;}
+.teacher9 .content-name{border-top: .1rem solid #ddd;border-bottom: .1rem solid #ddd; line-height: 6rem; height: 6rem;margin-top: 1rem}
+.teacher9 .content-heigth{line-height: 4rem;}
+.teacher9  .rongyu-div span{ line-height: 3rem; border-bottom: .1rem solid #ddd; display: inline-block;width: 100%;}
+
+
+
+/*教师页面10 我的课程*/
+.oneOnone{background-color: #fff;}
+.oneOnone .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.oneOnone .backico{float: left;padding-top: 1.5rem;}
+.oneOnone .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.oneOnone .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.oneOnone .text-content{padding:0 2rem}
+.oneOnone .text-content-box{float: left;}
+.oneOnone .text-title-h3{float: left;font-size: 1.2rem; font-weight:bold;padding-top: 2rem;padding-bottom: 1rem;}
+.oneOnone .moneybox{float: right;border: 1px solid #73acef;width: 8rem;line-height: 6rem;font-size: 3rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 2rem;}
+.oneOnone .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.oneOnone .text-content-bot{padding-top: 1rem;line-height: 1.7rem;}
+.oneOnone .center-box{text-align: center;padding-top: 2rem;}
+.oneOnone .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.oneOnone .center-btn-span{font-size: .5rem;}
+.oneOnone .text-button{/*text-align: center;*/padding-top: 1.5rem;width: 100%;border-bottom: 1px solid #aaaaaa;line-height: 2rem;}
+.oneOnone .start-ico{color: #aaa;font-size: 1.4rem;}
+.oneOnone .text-pingjia{padding-top: 2rem;}
+.oneOnone .text-tear{width: 100%;height: 14rem;border: 1px solid #aaa;}
+.oneOnone .text-tear-box{padding-top: 1.5rem;}
+.oneOnone .hr{margin-top: 1rem;}
+.oneOnone .text-h3{line-height: 2rem; font-size: 1.3rem;font-weight: bold;}
+.oneOnone .stu-text{margin-top: 1rem;width: 70%;float: left;}
+.oneOnone .stu-text-span1{float: left;font-size: .5rem;}
+.oneOnone .stu-text-span2{	float: right;width: 84%;font-size: .5rem;}
+.oneOnone .tea-text{margin-top: 1rem;width: 70%;float: right;}
+.oneOnone .tea-text-span1{float: right;font-size: .5rem;}
+.oneOnone .tea-text-span2{float: left;width: 84%;font-size: .5rem;}
+.oneOnone .text-area{clear:both;margin-top: 2rem;}
+.oneOnone .text-area textarea{	width: 100%;height: 14rem;}
+.oneOnone .text-area button{width: 100%;background-color: #75ACED;outline: none;border-style: none;height: 2.5rem;color: #fff;font-size: 1rem;}
+.oneOnone .btm-btn-box button{width: 100%;outline: none;border-style: none;height: 2.5rem;color: #fff;background-color: #ff0000;position: fixed;bottom: 0;font-size: 1rem;}
+
+
+/*教师页面11 售后服务*/
+.customer{background-color: #fff;}
+.customer .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.customer .backico{float: left;padding-top: 1.5rem;}
+.customer .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.customer .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.customer .text-content{padding:0 2rem;/*border: 1px solid red;*/}
+.customer .input-first{width: 100%;border: .1rem solid #78abed;height: 2.5rem;border-radius:.6rem;padding-left: .7rem;font-size: 1.1rem;margin-top: 1rem;}
+.customer .sel-grade{width: 33%;margin-top: 1rem;/*float: left;*/display: inline-block;border: .1rem solid #78ABED;border-radius: .6rem;height: 2rem;/*margin-left: 2rem;*/}
+.customer .sel-name{/*border: 1px solid red;*/display: inline-block;line-height: 2rem;padding-left: 2rem;font-size: .7rem;}
+.customer .sle-down{color: #aaa;float: right;font-size: 2rem;padding-right: .5rem;color: #78ABED;}
+.customer .sel-grade-btn{margin-top: 1rem;width: 31%;float: right;height: 2rem;}
+.customer .sel-grade-btn-btn{display: inline-block;text-align: center;line-height: 2rem;width: 100%;height: 2rem;border-radius: .6rem ;background-color: #78ABED;color: #fff;font-size: 1rem;border: .1rem solid #78ABED;}
+.customer .sel-grade-btn-btn:hover{color: #CECECE;background-color: #5d8ecd;}
+.customer .text-content-box{float: left;}
+.customer .text-title-h3{float: left;font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;}
+.customer .moneybox{float: right;border: 1px solid #73acef;width: 6rem;line-height: 4.5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 2rem;}
+.customer .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.customer .text-content-bot{padding-top: 1rem;line-height: 1.7rem;}
+.customer .center-box{text-align: center;padding-top: 2rem;}
+.customer .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.customer .center-btn-span{font-size: .5rem;}
+.customer .start-ico{color: #aaa;font-size: 1.4rem;}
+.customer .midd-box{border: .1rem solid #73acef;margin-top: 1rem;padding-left: 1rem;padding-right: 1rem;padding-bottom: .7rem;}
+.customer .btm-grade{/*margin-top: .5rem;*/}
+.customer .btm-left{width: 49%;display: inline-block;background-color: #78ABED;text-align: center;color: #fff;font-size: 1.2rem;float: left;line-height: 2.5rem;}
+.customer .btm-right{width: 49%;display: inline-block;background-color: #78ABED;text-align: center;color: #fff;font-size: 1.2rem;float: right;line-height: 2.5rem;}
+.customer .top-btn{height: 3rem;border: .2rem solid #78ABED;margin-top: 1rem;}
+.customer .top-btn1{margin-top: .1rem;width: 48%;float: left;height: 2.8rem;background: #fff;outline: none;border-style: none;margin-right: .2rem;margin-left: .2rem;border: .1rem solid #78ABED;border-bottom-left-radius: .4rem;border-top-left-radius: .4rem;font-size: 1rem;}
+.customer .top-btn2{margin-top: .1rem;width: 48%;float: right;height: 2.8rem;margin-right: .2rem;background: #78ABED;/*background: red;*/outline: none;border-style: none;color: #fff;border-bottom-right-radius: .4rem;border-top-right-radius: .4rem;font-size: 1rem;}
+.customer .top-btn1:active{background: #78ABED;color: #333;/*	border: .1rem solid #fff;*/color: #fff;}
+.customer .top-btn2:active{background: #fff;color: #333;border: .1rem solid #78ABED;}
+
+
+
+
+
+/*教师页面12 我的课程*/
+.openclass{background-color: #fff;}
+.openclass .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.openclass .backico{float: left;padding-top: 1.5rem;}
+.openclass .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.openclass .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.openclass .text-content{padding:0 2rem;/*border: 1px solid red;*/}
+.openclass .input-first{width: 100%;border: .1rem solid #78abed;height: 2.5rem;border-radius:.6rem;padding-left: .7rem;font-size: 1.1rem;margin-top: 1rem;}
+.openclass .sel-grade{width: 33%;margin-top: 1rem;/*float: left;*/display: inline-block;border: .1rem solid #78ABED;border-radius: .6rem;height: 2rem;/*margin-left: 2rem;*/}
+.openclass .sel-name{/*border: 1px solid red;*/display: inline-block;line-height: 2rem;padding-left: 2rem;font-size: .7rem;}
+.openclass .sle-down{color: #aaa;float: right;font-size: 2rem;padding-right: .5rem;color: #78ABED;}
+.openclass .sel-grade-btn{margin-top: 1rem;width: 31%;float: right;height: 2rem;}
+.openclass .sel-grade-btn-btn{display: inline-block;text-align: center;line-height: 2rem;width: 100%;height: 2rem;border-radius: .6rem ;background-color: #78ABED;color: #fff;font-size: 1rem;border: .1rem solid #78ABED;}
+.openclass .sel-grade-btn-btn:hover{color: #CECECE;background-color: #5d8ecd;}
+.openclass .text-content-box{float: left;}
+.openclass .text-title-h3{float: left;font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;}
+.openclass .moneybox{float: right;border: 1px solid #73acef;width: 6rem;line-height: 4.5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 2rem;}
+.openclass .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.openclass .text-content-bot{padding-top: 1rem;line-height: 1.7rem;}
+.openclass .center-box{text-align: center;padding-top: 2rem;}
+.openclass .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.openclass .center-btn-span{font-size: .5rem;}
+.openclass .start-ico{color: #aaa;font-size: 1.4rem;}
+.openclass .midd-box{border: .1rem solid #73acef;margin-top: 1rem;padding-left: 1rem;padding-right: 1rem;padding-bottom: .7rem;}
+.openclass .btm-grade{/*margin-top: .5rem;*/}
+.openclass .btm-left{width: 49%;display: inline-block;border:1px solid #78ABED;text-align: center;color: red;font-size: 1.2rem;float: left;line-height: 2.5rem;}
+.openclass .btm-right{width: 49%;display: inline-block;background-color: #78ABED;text-align: center;color: #fff;font-size: 1.2rem;float: right;line-height: 2.5rem;}
+.openclass .top-btn{height: 3rem;border: .2rem solid #78ABED;margin-top: 1rem;}
+.openclass .top-btn1{margin-top: .1rem;width: 32%;float: left;height: 2.8rem;color:#333; background: #fff; outline: none;border-style: none;margin-left: .2rem;border-bottom-left-radius: .4rem;border-top-left-radius: .4rem;font-size: 1rem;}
+.openclass .top-btn2{margin-top: .1rem;width: 32%;float: left;height: 2.8rem;margin-right: .2rem;margin-left:.2rem;background: #78ABED;outline: none;border-style: none;color: #fff;font-size: 1rem;}
+.openclass .top-btn1:active{background: #78ABED;color: #333;/*	border: .1rem solid #fff;*/color: #fff;}
+.openclass .top-btn2:active{background: #78ABED;color: #fff;border: .1rem solid #78ABED;}
+.openclass .top-btn4{margin-top: .1rem;width: 32%;float: left;height: 2.8rem;margin-right: .2rem;background: #fff;outline: none;border-style: none;color: #333;border-bottom-right-radius: .4rem;border-top-right-radius: .4rem;font-size: 1rem;}
+.openclass .top-btn4:active{background: #78ABED;color: #fff;border: .1rem solid #78ABED;}
+.openclass .icon-clock{font-style: normal; font-size: 1rem;}
+
+
+
+
+
+/*教师页面13 我的任务*/
+.teacher13{background-color: #fff;}
+.teacher13 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher13 .backico{float: left;padding-top: 1.5rem;}
+.teacher13 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher13 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher13 .text-content{padding:0 2rem;/*border: 1px solid red;*/}
+.teacher13 .input-first{width: 100%;border: .1rem solid #78abed;height: 2.5rem;border-radius:.6rem;padding-left: .7rem;font-size: 1.1rem;margin-top: 1rem;}
+.teacher13 .sel-grade{width: 33%;margin-top: 1rem;/*float: left;*/display: inline-block;border: .1rem solid #78ABED;border-radius: .6rem;height: 2rem;/*margin-left: 2rem;*/}
+.teacher13 .sel-name{/*border: 1px solid red;*/display: inline-block;line-height: 2rem;padding-left: 2rem;font-size: .7rem;}
+.teacher13 .sle-down{color: #aaa;float: right;font-size: 2rem;padding-right: .5rem;color: #78ABED;}
+.teacher13 .sel-grade-btn{margin-top: 1rem;width: 31%;float: right;height: 2rem;}
+.teacher13 .sel-grade-btn-btn{display: inline-block;text-align: center;line-height: 2rem;width: 100%;height: 2rem;border-radius: .6rem ;background-color: #78ABED;color: #fff;font-size: 1rem;border: .1rem solid #78ABED;}
+.teacher13 .sel-grade-btn-btn:hover{color: #CECECE;background-color: #5d8ecd;}
+.teacher13 .text-content-box{float: left;}
+.teacher13 .text-title-h3{float: left;font-size: 1.2rem;padding-top: 2rem;padding-bottom: 1rem;}
+.teacher13 .moneybox{float: right;border: 1px solid #73acef;width: 6rem;line-height: 4.5rem;font-size: 2rem;color: #73ACEF;text-align: center;font-weight: bold;margin-top: 2rem;}
+.teacher13 .text-content-p p{font-size: 1rem;/*border: 1px solid blue;*/line-height:1.7rem;}
+.teacher13 .text-content-bot{padding-top: 1rem;line-height: 1.7rem;}
+.teacher13 .center-box{text-align: center;padding-top: 2rem;}
+.teacher13 .center-btn{color: #5d5d5d;font-size: 1.2rem;line-height: 1.8rem;}
+.teacher13 .center-btn-span{font-size: .5rem;}
+.teacher13 .start-ico{color: #aaa;font-size: 1.4rem;}
+.teacher13 .midd-box{border: .1rem solid #73acef;margin-top: 1rem;padding-left: 1rem;padding-right: 1rem;padding-bottom: .7rem;}
+.teacher13 .btm-grade{/*margin-top: .5rem;*/}
+.teacher13 .btm-right{width: 100%;display: inline-block;background-color: #78ABED;text-align: center;color: #fff;font-size: 1.2rem;float: right;line-height: 2.5rem;}
+.teacher13 .top-btn{height: 3rem;border: .2rem solid #78ABED;margin-top: 1rem;}
+.teacher13 .top-btn1{margin-top: .1rem;width: 32%;float: left;height: 2.8rem;color:#333; background: #fff; outline: none;border-style: none;margin-left: .2rem;border-bottom-left-radius: .4rem;border-top-left-radius: .4rem;font-size: 1rem;}
+.teacher13 .top-btn2{margin-top: .1rem;width: 32%;float: left;height: 2.8rem;margin-right: .2rem;margin-left:.2rem;background: #78ABED;outline: none;border-style: none;color: #fff;font-size: 1rem;}
+.teacher13 .top-btn1:active{background: #78ABED;color: #333;/*	border: .1rem solid #fff;*/color: #fff;}
+.teacher13 .top-btn2:active{background: #78ABED;color: #fff;border: .1rem solid #78ABED;}
+.teacher13 .top-btn4{margin-top: .1rem;width: 32%;float: left;height: 2.8rem;margin-right: .2rem;background: #fff;outline: none;border-style: none;color: #333;border-bottom-right-radius: .4rem;border-top-right-radius: .4rem;font-size: 1rem;}
+.teacher13 .top-btn4:active{background: #78ABED;color: #fff;border: .1rem solid #78ABED;}
+.teacher13 .icon-clock{font-style: normal; font-size: 1rem;}
+
+
+/*教师页面14 我的钱包*/
+.teacher14{background-color: #fff;}
+.teacher14 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher14 .backico{float: left;padding-top: 1.5rem;}
+.teacher14 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher14 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-bottom: 1.5rem;margin-left: 10rem;}
+.teacher14 .text-content{padding:0 2rem;/*border: 1px solid red;*/}
+.teacher14 .icon-money{margin-top: 1.2rem}
+.teacher14 .text-title{text-align: center;font-size: 1.2rem;margin-top: 2rem;color:#666;letter-spacing: .1rem;}
+.teacher14 .text-money{text-align: center; font-size: 5rem;margin-top: 2rem;color:#75aced;font-weight: bold;}
+.teacher14 .text-fenge{text-align: center;width: 6rem; margin: 4rem auto 0 auto;color: #999;font-size: 1.4rem; }
+.teacher14 .text-ul{border-top: .1rem solid #ddd;border-bottom: .1rem solid #ddd; padding-top: 2rem; padding-bottom: 2rem;}
+.teacher14 .text-ul li{line-height: 4rem;font-size: 1.2rem}
+
+
+
+/*教师页面15 提现*/
+.teacher15{background-color: #fff;}
+.teacher15 .headerbox{/*height: 6.5rem;*/background-color: #75aced;padding-left: .5rem;padding-right: .5rem;/*border: 1px solid red;*/}
+.teacher15 .backico{float: left;padding-top: 1.5rem;}
+.teacher15 .icon-search{font-size: 2.4rem;font-family: iconfont;color: white;}
+.teacher15 .title-text{text-align: center;font-size: 1.5rem;color: white;/*border: 1px solid red;*/padding-top: 1.5rem;padding-right: 1rem;padding-bottom: 1.5rem;}
+.teacher15 .text-content{padding:3rem 4rem;/*border: 1px solid red;*/}
+.teacher15 .content-yuer{font-size: 1.3rem;color: #666;}
+.teacher15 .centent-money{color: #75aced;font-size: 2rem;margin-left: 1rem;}
+.teacher15 .centent-fuhao{font-size: 3rem; color: #75ACED;margin-top: 1rem;display: inline-block;}
+.teacher15 .centent-tixian{border-bottom: .1rem solid #666;color: #666; font-size: 2.2rem;display: inline-block;width: 80%;margin-left: 1rem}
+.teacher15 .btm-btn-box button{width: 100%;outline: none;border-style: none;height: 2.5rem;color: #fff;background-color: #75ACED;position: fixed;bottom: 0;font-size: 1rem;}

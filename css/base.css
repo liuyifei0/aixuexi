@@ -194,16 +194,16 @@ body{margin: 0 auto; min-height: 100%;}
 
 @font-face {
   font-family: 'iconfont';  /* project id 375636 */
-  src: url('//at.alicdn.com/t/font_375636_vlvrjekgptoi529.eot');
-  src: url('//at.alicdn.com/t/font_375636_vlvrjekgptoi529.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_375636_vlvrjekgptoi529.woff') format('woff'),
-  url('//at.alicdn.com/t/font_375636_vlvrjekgptoi529.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_375636_vlvrjekgptoi529.svg#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/font_375636_1dr4h3xg4cwbqpvi.eot');
+  src: url('//at.alicdn.com/t/font_375636_1dr4h3xg4cwbqpvi.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_375636_1dr4h3xg4cwbqpvi.woff') format('woff'),
+  url('//at.alicdn.com/t/font_375636_1dr4h3xg4cwbqpvi.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_375636_1dr4h3xg4cwbqpvi.svg#iconfont') format('svg');
 }
 
 
 .mr-right10{margin-right: 1rem;}
-
-
-
+.font-2{font-size: 2rem!important;}
+.icon-666{color: #666!important;}
+.font-1{font-size: 1rem;}
 
